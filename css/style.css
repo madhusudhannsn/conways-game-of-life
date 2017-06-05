@@ -1,0 +1,50 @@
+
+.my-body
+{
+	 background-color: rgb(198, 242, 235);
+}
+.my-navbar-header
+{
+	height:65px;
+	width: 1280px;
+}
+.my-rules-image
+{
+	margin-top :20px;
+	height: 180px;
+	width: 200px;
+}
+.my-button-style
+{
+	margin:2px 60px 0px;
+	width: 115px;
+}
+#my-navbar-text
+{
+	margin-left : 200px;
+	font-size: 45px;
+	text-align: center;
+	padding-left: 15px;
+	color:rgb(95, 75, 152);
+}
+.table>tbody>tr>td
+{
+	background:white;
+	padding: 2px;
+	
+}
+.my-live-cell
+{
+	bgcolr: black;
+}
+.my-button-panel
+{
+	margin-top : 10px;
+}
+.my-navbar-image
+{
+	height : 60px;
+	width : 100px;
+	margin-right : 50px;
+	
+}
